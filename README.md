@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mahesh 👋
 
-<!--
-**Mahesh-Dalbanjan/Mahesh-Dalbanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Student | 💻 Learning Web & Software Development  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- I’m revising and strengthening my fundamentals (HTML, programming basics)
+- Interested in software development & practical coding
+- Learning consistently and building small projects
+
+---
+
+## 🛠️ Skills
+- HTML (Revising)
+- C Programming
+- Python (Basics)
+- VS Code
+- Git & GitHub (Learning)
+
+---
+
+## 📚 Currently Learning
+- HTML & Web Basics
+- GitHub workflow
+- Clean coding practices
+
+---
+
+## 📫 Connect with Me
+- GitHub: @mahesh-dalbanjan
